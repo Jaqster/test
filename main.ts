@@ -8,3 +8,4 @@ basic.forever(function on_forever() {
         `)
 })
 basic.showNumber(99)
+basic.showIcon(IconNames.Heart)
